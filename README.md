@@ -1,5 +1,7 @@
 # react-redux-example
 
+![cover-img](https://user-images.githubusercontent.com/54643425/199108747-9c91f168-dc55-43b4-b1a7-718ba19af385.png)
+
 Projeto de estudos desenvolvido com o objetivo de praticar os conhecimentos em gerenciamento de estado no React JS usando a biblioteca React Redux.
 ## 🚀 Introdução
 
